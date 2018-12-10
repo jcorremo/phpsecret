@@ -33,9 +33,7 @@ if(isset($_SESSION['user'])){
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">
-        <?php 
-        echo $persona['name'];
-      ?>
+        Bienvenido
       </a>
       <ul class="right hide-on-med-and-down">
         <li><a href="php/Controller/login.php?msg=1" class="">Cerrar sesion</a></li>

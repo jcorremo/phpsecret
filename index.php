@@ -15,7 +15,8 @@
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">Amigo secreto</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="#modalRegistro" class="modal-trigger">Registrate</a>
+        <li><a href="#modalRegistro" class="modal-trigger">Registrate</a></li>
+        <li><a href="#modalLogin" class="modal-trigger">Ingresar</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
@@ -28,16 +29,11 @@
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
-        <br><br>
-        <h1 class="header center teal-text text-lighten-2">Juega al amigo secreto</h1>
+        
         <div class="row center">
-          <h5 class="header col s12 light">Es una manera divertida de compartir con la familia</h5>
-        </div>
-        <div class="row center">
-          <a href="#modalLogin" class="btn-large waves-effect waves-light teal lighten-1  modal-trigger">Ingresar</a>
+          
         </div>
         <br><br>
-
       </div>
     </div>
     <div class="parallax"><img src="img/background1.jpg" alt="Unsplashed background img 1"></div>
