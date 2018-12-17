@@ -15,12 +15,12 @@
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">Amigo secreto</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="#modalRegistro" class="modal-trigger">Registrate</a></li>
+        <!--<li><a href="#modalRegistro" class="modal-trigger">Registrate</a></li>-->
         <li><a href="#modalLogin" class="modal-trigger">Ingresar</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="#modalRegistro" class="modal-trigger">Registrate</a></li>
+        <!--<li><a href="#modalRegistro" class="modal-trigger">Registrate</a></li>-->
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
